@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishad-Amit&label=Profile%20views&color=0e75b6&style=flat" alt="Nishad-Amit" /> </p>
 
 - 🔭 Currently working as a **Software Engineer**
-- 🌱 Learning **Web3, Blockchain, Data Science/Analysis**
+- 🌱 Learning **Web3, Machine Learning, Data Science/Analysis**
 - 👯 Looking to collaborate on **Web3 Applications & Open-Source Projects**
 - 🤔 Looking for help with **building a great knowledge source**
 - 💬 Ask me about **Web Development, Smart Contracts, C++, and Python**
