@@ -14,7 +14,7 @@
 - 🌱 Learning **Web3, Machine Learning, Data Science/Analysis**
 - 👯 Looking to collaborate on **Web3 Applications & Open-Source Projects**
 - 🤔 Looking for help with **building a great knowledge source**
-- 💬 Ask me about **Web Development, Smart Contracts, C++, and Python**
+- 💬 Ask me about **Web Development, C++, and Python**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishadamit/)
 
 <h3 align="left">Connect with me:</h3>
